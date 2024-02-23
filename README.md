@@ -1,4 +1,4 @@
-![로고](https://github.com/mirikwon427/ASAP/commit/88d7e3097c73bc362aa2613836af09e851263e1e)
+![asap](https://github.com/mirikwon427/ASAP/assets/149026894/33ca8b05-6f9a-4c02-b92e-d00848553eb2)
 
 # 📌 ASAP 
 > 무명작가들의 작품 홍보 및 수익 파이프라인 확대를 위한 경매 및 상품 판매 중개 웹사이트
